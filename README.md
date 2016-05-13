@@ -9,4 +9,4 @@ Deplus, j'ai fait entièrement le code mon côté sans attendre le vôtre pour n
 De ce fait, mon code prend pas en compte le chat donc le protocole que vous avez établi. Cependant je pense que je le but de l'exercice
 était de créer d'abord une intelligence artificielle avant tout et non un chat.
 
-Pour lancer le code, c'est simple, il suffit de le runner dans le terminal. Vous pouvez modifier la board tout en haut
+Pour lancer le code, c'est simple, il suffit de le runner dans le terminal. Vous pouvez modifier le plateau sur lequel se génère tous les coups possible en modifiant les dictionnaires contenant les chevaliers ou les villageois. N'hésitez pas à changer de rôle ('assassin' ou 'king').
